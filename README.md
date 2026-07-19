@@ -1,6 +1,6 @@
-# DebCraft
+# mydebianbuild
 
-A Debian-based Linux distribution with the minimalist, aesthetic look of **Archcraft**, full **NVIDIA driver** support, and a **Calamares graphical installer**.
+A Debian-based Linux distribution with the minimalist, aesthetic look , full **NVIDIA driver** support, and a **Calamares graphical installer**.
 
 Built on **Debian 12 (Bookworm)** with `bspwm`, `polybar`, `picom`, and a carefully curated Catppuccin Mocha dark theme throughout.
 
