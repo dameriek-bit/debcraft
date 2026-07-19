@@ -105,9 +105,10 @@ You have **3 ways** to build the ISOs. Pick the one that matches your setup:
 Requires: Docker installed, ~20 GB disk, internet.
 
 ```bash
-cd debcraft
-chmod +x docker-build.sh
-./docker-build.sh
+so you unpack the file then cd into the folder with build.sh and do
+sudo bash build.sh --nvidia for nvidia
+sudo bash build.sh without nvidia
+
 ```
 
 That's it. Both ISOs appear in `output/`:
